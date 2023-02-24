@@ -1,0 +1,14 @@
+li {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #3A3A3A;
+    text-transform: capitalize;
+}
+
+.btn-nav{
+    background-color: #056499CC;
+    border-radius: 44px;
+    padding: 16px 32px;
+    color: #fff;
+}

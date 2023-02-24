@@ -1,0 +1,55 @@
+.banner-body {
+    background-image: url("../../assets/Vector.png");
+}
+
+.visitloc {
+    background-color: #D2F4FF;
+    width: 197px;
+    height: 64px;
+    border-radius: 44px;
+}
+
+.visit {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 50px;
+    color: #3A3A3A;
+    padding: 7px 30px;
+}
+
+.banner-text {
+    color: #3A3A3A;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 90px;
+    margin-top: 48px;
+    margin-bottom: 64px;
+}
+
+.banner-text span {
+    color: #3282AD;
+}
+
+.btn-discover {
+    color: #3282AD;
+    padding: 16px 32px;
+    width: 174px;
+    height: 64px;
+    border: 2px solid #3282AD;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    font-weight: bold;
+}
+
+.plane {
+    color: #42A7C3;
+    width: 47.2px;
+    height: 51.27px;
+}
+
+.right {
+    width: 441px;
+    height: 452px;
+    background-color: #C4C4C4;
+}
